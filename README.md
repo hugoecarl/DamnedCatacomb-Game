@@ -8,7 +8,7 @@ https://veguinho.itch.io/damned-catacombs
 
 - A mecânica do jogo é bem simples, ela consiste em um jogo primeira pessoa onde o usuário deve utilizar o mouse para controlar a câmera, as teclas "w","a","s","d" para se mover, sendo possível também agachar usando a tecla "Ctrl" e correr usando a tecla "Shift", mas cuidado para não acabar a stamina e ser devorado pelo o monstro presente.  
 
-##GamePlay  
+## GamePlay  
 
 - O jogo foi construido em apenas uma cena principal e tem como ideia central ser um jogo de terror imersivo e assustador, Damned Catacomb tem sua inspiração em um cenário de catacumba medieval misturado com as dungeons de jogos rpg famosos. O objetivo central do jogo é escapar antes que o monstro possa te alcançar e te matar, para isso será necessário estratégias para não ser encurralado, junto a um bom conhecimento do mapa. Para poder encontrar a sala do tesouro e fugir será necessário encontrar as 6 chaves ao longo da fase e abrir a porta trancada que se encontra em frente à area que o player começa sua jornada.  
 
